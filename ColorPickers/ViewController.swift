@@ -13,6 +13,8 @@ class ViewController: UIViewController {
         return (redSlider.value, greenSlider.value, blueSlider.value)
     }
     
+    @IBAction func dsdd(_ sender: AnyObject) {
+    }
     @IBOutlet weak var totalLabel: UILabel!
     @IBOutlet weak var blueText: UITextField!
     @IBOutlet weak var greenText: UITextField!

@@ -55,7 +55,7 @@
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                                 <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
                                                 <connections>
-                                                    <action selector="textChanged:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="wSt-Qm-2ax"/>
+                                                    <action selector="textChanged:" destination="BYZ-38-t0r" eventType="editingChanged" id="vnS-wk-IyE"/>
                                                 </connections>
                                             </textField>
                                         </subviews>
@@ -74,7 +74,7 @@
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                                 <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
                                                 <connections>
-                                                    <action selector="textChanged:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="6vT-NV-EwU"/>
+                                                    <action selector="textChanged:" destination="BYZ-38-t0r" eventType="editingChanged" id="JbD-eU-R86"/>
                                                 </connections>
                                             </textField>
                                         </subviews>
